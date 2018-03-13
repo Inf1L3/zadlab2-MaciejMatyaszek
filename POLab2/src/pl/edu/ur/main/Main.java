@@ -232,7 +232,7 @@ public class Main {
         
            
        }
-        System.out.println("Element posortowane: ");
+        System.out.println("Elementy posortowane: ");
        for (int i=0;i<tab.length; i++){
            System.out.println(tab[i]+"");
        }
